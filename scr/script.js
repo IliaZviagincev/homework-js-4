@@ -88,6 +88,6 @@ console.log(
   `у нас есть числа: ${userNumA} и ${userNumB}
 сумма чисел равна ${getSum(userNumA, userNumB)}
 разность чисел равна ${getDiff(userNumA, userNumB)}
-nумножение чисел равно ${getMult(userNumA, userNumB)}
+умножение чисел равно ${getMult(userNumA, userNumB)}
 деление чисел равно ${getDiv(userNumA, userNumB)}`
 );
